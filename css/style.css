@@ -16,7 +16,6 @@
     width: 80%;
     max-width: 1200px;
     margin: 30px auto;
-    border: 2px solid red;
 }
 
 .header{
@@ -38,3 +37,40 @@
     height: 80px;
     background-color: #8802fe;
 }
+
+/* ARTICLE  */
+.color-article{
+    background-color: #abcfe7;
+}
+
+.header-article{
+    height: 70px;
+}
+
+.col{
+    float: left;
+    height: 390px;
+}
+
+.col-left{
+    width:25%;
+    margin-right: 12.5px;
+}
+
+.col-center{
+    width: calc(50% - 25px);
+}
+
+.col-right{
+    width: 25%;
+    margin-left: 12.5px;
+}
+
+.margin{
+    margin-bottom: 20px;
+}
+
+.margin-top{
+    margin-top: 20px;
+}
+
